@@ -1,0 +1,19 @@
+ACCESSIBLITY CHECKERS (Extensions)
+
+. Color Contrast Analyzer
+Analyze a web page or portion of a web page for conformance with WCAG 2.0 Color Contrast requirements.
+https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll?hl=en
+
+. NoCoffee
+NoCoffee is a vision simulator, it can show how persons with low Acuity or low contrast sensitivity see the page.
+https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl
+
+. axe
+Accessibility checker for WCAG 2 and Section 508 accessibility. Find accessibility defects on your website or web application by using the axe Chrome extension.
+Note: they also offer NPM tools.
+https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/lhdoppojpmngadmnindnejefpokejbdd
+
+. Accessibility Insights for Web
+Accessibility Insights for Web helps developers quickly find and fix accessibility issues.
+Allow to export reports with the ‘passes’ and ‘fails’.
+https://chrome.google.com/webstore/detail/accessibility-insights-fo/pbjjkligggfmakdaogkfomddhfmpjeni?hl=en
