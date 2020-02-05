@@ -9,8 +9,10 @@ https://developers.google.com/search/docs/guides/get-started#check-your-links
 https://developers.google.com/search/reference/overview
 
 ## Google guidelines
+
 https://developers.google.com/search/docs/guides/sd-policies
-. breadcrump : define what we see from the URL. We can use emojis. Position 1 start with the domain.
+<ol>
+<li>. breadcrump : define what we see from the URL. We can use emojis. Position 1 start with the domain </li>
 . Q&A : efficient way to get more space on the search result
 . video : YT videos appear in the search result. A good way to have an image display when other results don't
 . Event : Requires dates (ex. exhibitions for Place des Arts)
@@ -21,6 +23,7 @@ https://developers.google.com/search/docs/guides/sd-policies
 . Local business : we can geolocalise
 . Product : we can add many info
 . Recipe : only ones displaying the vignette with YT videos
+</ol>
 
 ## Test the structured data of a website
 1. https://search.google.com/structured-data/testing-tool
